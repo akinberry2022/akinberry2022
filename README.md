@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akinberry2022
 - 👀 I’m interested in Cloud computing (Azure & GCP), Python, C#, and Kotlin
 - 🌱 I’m currently increasing my experience with Azure, GCP, and data pipelines.
-- 💞️ I’m looking to collaborate on with oher Infosys employees.
+- 💞️ I’m looking to collaborate on with other Infosys employees.
 - 📫 How to reach me akin.berry@infosys.com
 
 <!---
